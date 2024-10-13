@@ -1,0 +1,40 @@
+[
+  {
+    "version": "1.0.0",
+    "release-date": "2022-01-01",
+    "items": [
+      {
+        "title": "Initial release",
+        "details": [
+          "Feature A", 
+          "Feature B"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.1.0",
+    "release-date": "2022-02-01"
+    "items": [
+      {
+        "title": "Added feature C",
+        "details": [
+          "Updated feature A",
+          "Fixed bug in feature B"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.1.1",
+    "release-date": "2022-02-15"
+    "items": [
+      {
+        "title": "Bug fixes",
+        "details": [
+          "Fixed bug in feature C"
+        ]
+      }
+    ]
+  }
+]
