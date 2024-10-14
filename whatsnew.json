@@ -1,4 +1,17 @@
 [
+    {
+    "version": "Beta1.0.0",
+    "release-date": "2024-10-11",
+    "items": [
+      {
+        "title": "Initial release",
+        "details": [
+          "Test A", 
+          "Test B"
+        ]
+      }
+    ]
+  },
   {
     "version": "1.0.0",
     "release-date": "2022-01-01",
